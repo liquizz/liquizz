@@ -75,9 +75,6 @@ const currentFocus = {
 <a href="https://www.linkedin.com/in/vladyslav-sheiko" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://www.threads.net/@vladsheyko" target="_blank">
-  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
-</a>
 <a href="https://liquiz.dev" target="_blank">
   <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
 </a>
