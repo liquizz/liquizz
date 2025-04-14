@@ -10,7 +10,7 @@
 
 <div align="center">
   
-### 🧩 Problem Solver | 🎮 Strategic Gamer | 💻 Developer
+### 🧩 Problem Solver |  💻 Developer
 
 </div>
 
