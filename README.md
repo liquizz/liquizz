@@ -21,7 +21,6 @@
 ### 👨‍💻 About Me
 
 - 🎯 I'm passionate about solving complex problems and creating efficient solutions
-- 🎮 I enjoy exploring strategic video games that challenge my thinking
 - 🧩 Fun fact: I love solving puzzles - they help me develop analytical thinking!
 - 🌱 Always learning and improving my skills
 - 🤝 Open to collaborating on interesting projects
