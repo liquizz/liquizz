@@ -78,12 +78,6 @@ const currentFocus = {
   <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
 </a>
 
----
-
-</div>
-
-> *"The best way to predict the future is to create it." - Peter Drucker*
-
 <div align="right">
-  Last updated: 2025-03-12 14:25:00 UTC
+  Last updated: 2026-02-28
 </div>
