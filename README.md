@@ -44,26 +44,6 @@ var my_tech_stack = {
 
 </div>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liquizz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liquizz&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-### 🎯 Current Focus
-
-```javascript
-const currentFocus = {
-  engineering: "Building scalable and maintainable backend architectures with .NET and modern frameworks",
-  refining: "Advanced system design and high-load API solutions for real-world applications",
-  automating: "Streamlining CI/CD pipelines to accelerate delivery and ensure quality",
-  expanding: "Mastering cloud-native technologies and container orchestration",
-  exploring: "Cutting-edge patterns in distributed systems and microservices",
-  lastUpdated: "2025-03-12 14:25:00 UTC"
-};
-```
-
 <div align="center">
 
 ### 🤝 Let's Connect!
